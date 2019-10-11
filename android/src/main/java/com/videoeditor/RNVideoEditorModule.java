@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.videoeditor;
 
 import com.coremedia.iso.boxes.Container;
 import com.facebook.react.bridge.ReactApplicationContext;
